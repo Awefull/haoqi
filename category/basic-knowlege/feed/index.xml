@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>basic knowlege &#8211; HAOQI DRILLING EQUIPMENT</title>
+	<atom:link href="/category/basic-knowlege/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A superior drilling tool supplier</description>
+	<lastBuildDate>Wed, 01 Nov 2023 12:32:19 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/08/logo.png</url>
+	<title>basic knowlege &#8211; HAOQI DRILLING EQUIPMENT</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Difference bewteen Tricone bit and PDC bit, More details with IADC,Suiteable formation </title>
+		<link>/difference-bewteen-tricone-bit-and-pdc-bit-more-details-with-iadcsuiteable-formation/</link>
+					<comments>/difference-bewteen-tricone-bit-and-pdc-bit-more-details-with-iadcsuiteable-formation/#respond</comments>
+		
+		<dc:creator><![CDATA[Geekofarts]]></dc:creator>
+		<pubDate>Wed, 01 Nov 2023 08:31:13 +0000</pubDate>
+				<category><![CDATA[basic knowlege]]></category>
+		<category><![CDATA[iadc]]></category>
+		<category><![CDATA[pdc bit]]></category>
+		<category><![CDATA[tricone bit]]></category>
+		<guid isPermaLink="false">/?p=3303</guid>
+
+					<description><![CDATA[In the field of oil exploration and drilling, drill bits are an indispensable tool. PDC bits and tricone bits are two commonly used drill bit types. They have different performances in terms of structure and applicability.Let me analyse in these 2 different aspects.]]></description>
+		
+					<wfw:commentRss>/difference-bewteen-tricone-bit-and-pdc-bit-more-details-with-iadcsuiteable-formation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to choose right tricone bits accoring diffrent formation and industry?</title>
+		<link>/how-to-choose-tricone-bits/</link>
+					<comments>/how-to-choose-tricone-bits/#respond</comments>
+		
+		<dc:creator><![CDATA[Geekofarts]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 01:39:29 +0000</pubDate>
+				<category><![CDATA[basic knowlege]]></category>
+		<category><![CDATA[iadc]]></category>
+		<category><![CDATA[rock bit]]></category>
+		<category><![CDATA[tricone bit]]></category>
+		<guid isPermaLink="false">/?p=3092</guid>
+
+					<description><![CDATA[Choosing the suitable Tricone bit for a specific drilling project is crucial for optimizing drilling performance and efficiency. it is used in various industries, including oil and gas exploration, mining, water well drilling, and geothermal drilling. Here are some key factors to consider when selecting a suitable bit from HaoQi drilling equipment.]]></description>
+		
+					<wfw:commentRss>/how-to-choose-tricone-bits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
